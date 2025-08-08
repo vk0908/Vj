@@ -1,7 +1,7 @@
 {
   "name": "PrimeUploadz Coolie Movie Bot",
   "description": "🔥 Telegram bot that sends Coolie movie updates with download & upcoming movies buttons — Powered by PrimeUploadz.",
-  "repository": "https://github.com/demonlord2002/start",
+  "repository": "https://github.com/cookies2002/Coolie-",
   "logo": "https://graph.org/file/ef913ae481b78227404ec-c2fe746f3a25c938ba.jpg",
   "keywords": ["telegram", "movie", "primeuploadz", "coolie", "pyrogram"],
   "env": {
