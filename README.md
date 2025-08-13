@@ -19,7 +19,7 @@ and two buttons: **Download** and **Upcoming Movies**.
 
 Click the button below to deploy this bot to Heroku instantly:  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cookies2002/Coolie-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vk0908/Vj)
 
 > Replace `YOUR_USERNAME` in the URL above with your GitHub username.
 
