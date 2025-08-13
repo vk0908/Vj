@@ -1,21 +1,21 @@
 {
   "name": "PrimeUploadz Coolie Movie Bot",
   "description": "🔥 Telegram bot that sends Coolie movie updates with download & upcoming movies buttons — Powered by PrimeUploadz.",
-  "repository": "https://github.com/cookies2002/Coolie-",
+  "repository": "https://github.com/vk0908/Vj",
   "logo": "https://graph.org/file/ef913ae481b78227404ec-c2fe746f3a25c938ba.jpg",
-  "keywords": ["telegram", "movie", "primeuploadz", "coolie", "pyrogram"],
+  "keywords": ["telegram", "movie", "Tamil Movie Time", "coolie", "pyrogram"],
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID from my.telegram.org",
-      "value": ""
+      "value": "29930515"
     },
     "API_HASH": {
       "description": "Your Telegram API Hash from my.telegram.org",
-      "value": ""
+      "value": "6ce62c5efd8ca6d11fd2962efe6fe716"
     },
     "BOT_TOKEN": {
       "description": "Your Telegram bot token from @BotFather",
-      "value": ""
+      "value": "8456910686:AAHnwRZVtq6tNz5oSpegdMZE92gT60OvmR0"
     }
   },
   "buildpacks": [
