@@ -3,9 +3,9 @@ import random
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-API_ID = 12345678  # 🔹 Replace with your API ID
-API_HASH = "your_api_hash_here"  # 🔹 Replace with your API Hash
-BOT_TOKEN = "your_bot_token_here"  # 🔹 Replace with your Bot Token
+API_ID = 24009202  # 🔹 Replace with your API ID
+API_HASH = "003538815cfbf2839496aa427342171c"  # 🔹 Replace with your API Hash
+BOT_TOKEN = "8456910686:AAHnwRZVtq6tNz5oSpegdMZE92gT60OvmR0"  # 🔹 Replace with your Bot Token
 
 bot = Client(
     "CoolieMovieBot",
