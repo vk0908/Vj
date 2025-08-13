@@ -7,11 +7,11 @@
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID from my.telegram.org",
-      "value": "29930515"
+      "value": "24009202"
     },
     "API_HASH": {
       "description": "Your Telegram API Hash from my.telegram.org",
-      "value": "6ce62c5efd8ca6d11fd2962efe6fe716"
+      "value": "003538815cfbf2839496aa427342171c"
     },
     "BOT_TOKEN": {
       "description": "Your Telegram bot token from @BotFather",
