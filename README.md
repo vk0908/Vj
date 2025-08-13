@@ -1,4 +1,4 @@
-# 🎬 Coolie Movie Bot — PrimeUploadz Edition
+# 🎬 Coolie Movie Bot — Tamil movie Time Edition
 
 🔥 A stylish **Telegram Movie Bot** built with **Pyrogram**.  
 When a user sends `/start`, the bot greets them with a cinematic poster, Tamil-style intro lines,  
